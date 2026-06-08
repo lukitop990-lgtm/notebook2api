@@ -1,0 +1,7 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.0
+nbformat==5.9.2
+click==8.1.7
+pyyaml==6.0.1
+pytest==7.4.0
